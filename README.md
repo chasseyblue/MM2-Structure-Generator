@@ -1,5 +1,6 @@
 # MM2 Structure Generator
 
+![image](https://github.com/user-attachments/assets/15d45ad3-c1fa-463e-aefa-a0fb0997b3f4)
 ## Description
 
 The **MM2 Structure Generator** is a utility designed to assist users in creating a predefined folder structure and configuration files for vehicle assets in the game **Midtown Madness 2**. It simplifies the tedious process of organising files, ensuring a consistent structure for developers and modders.
