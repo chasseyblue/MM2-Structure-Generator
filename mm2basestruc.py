@@ -769,7 +769,7 @@ class VehicleFolderSetup(QMainWindow):
         
         # \tune\banger\ _WHL1.dgBangerData
         def generate_WHL1_dgBangerData_file():
-            WHL1_dbBangerData_file_path = os.path.join(banger_folder_path, f"{vehicle_name}_WHL1.dbBangerData")
+            WHL1_dbBangerData_file_path = os.path.join(banger_folder_path, f"{vehicle_name}_WHL1.dgBangerData")
             content = (
             "type: a\n"
             "dgBangerData {\n"
